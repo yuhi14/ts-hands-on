@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Yuhi14/ts-hands-on/issues"
   },
-  "homepage": "https://github.com/Yuhi14/ts-hands-on#readme"
+  "homepage": "https://github.com/Yuhi14/ts-hands-on#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
