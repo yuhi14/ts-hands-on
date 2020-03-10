@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Yuhi14/ts-hands-on#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.8.3"
   }
 }
