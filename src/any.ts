@@ -7,17 +7,12 @@ axios.get(url).then(response => {
 
     interface Article {
         id: number;
-        title: number;
+        title: string;
         description: string;
     }
 
     let data: Article;
     data = response.data;
-    // data = [{
-    //     id: 1,
-    //     title: 'title',
-    //     description: 'description'
-    // }]
     console.log(data);
 });
 
